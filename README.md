@@ -6,8 +6,8 @@ Este repositório é dedicado aos meus estudos de Lógica. Desse modo, organizo-
 
 ### Índice:
 
-1. [Lógica Tradicional](./logica-tradicional)
-2. [Lógica Matemática](./logica-matematica)
+1. [Lógica Tradicional](./01_logica_tradicional)
+2. [Lógica Matemática](./02_logica_matematica)
 
 ---
 
