@@ -2,7 +2,7 @@
 
 ### Sobre este repositório:
 
-Este repositório é dedicado aos meus estudos de Lógica. Desse modo, organizo-os e os deixo de fácil consulta, além de servir como uma vitrine do meu conhecimento e compormisso com a área.
+Este repositório é dedicado aos meus estudos de Lógica. Desse modo, organizo-os e os deixo de fácil consulta, além de servir como uma vitrine do meu conhecimento e compromisso com a área.
 
 ### Índice:
 
