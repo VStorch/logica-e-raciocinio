@@ -22,7 +22,7 @@ Esta pasta é dedicada ao estudo do sistema lógico sistematizado por Aristótel
 
 Aqui estão os principais conceitos e formas de raciocínio desenvolvidos pela tradição clássica:
 
-- [**Termos**](./termos) — a base das proposições.
+- [**Termos**](./01_termos) — a base das proposições.
 - **Proposições** — sentenças declarativas fundamentadas em dois termos.
 - **Argumentos** — série de proposições que buscam levar a uma conclusão.
 - **Silogismos** — formas válidas de inferência com base em duas premissas.
